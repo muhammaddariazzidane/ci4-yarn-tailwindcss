@@ -6,7 +6,7 @@ $validation = \Config\Services::validation();
 
 <head>
   <meta charset="UTF-8">
-  <title>Register</title>
+  <title>Register / Login</title>
   <link rel="stylesheet" href="/css/output.css">
 
 </head>
