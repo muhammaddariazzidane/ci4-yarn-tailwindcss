@@ -8,7 +8,7 @@
         <label class="label">
           <span class="label-text">Name</span>
         </label>
-        <input type="text" name="name" id="name" placeholder="email" class="input input-bordered" />
+        <input type="text" name="name" id="name" placeholder="name" class="input input-bordered" />
       </div>
       <div class="form-control">
         <label class="label">
